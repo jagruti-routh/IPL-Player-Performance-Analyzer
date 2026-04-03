@@ -19,7 +19,7 @@ and Power BI for interactive dashboards.
   is more efficient at 35.68 avg runs per match vs Kohli's 32.80
 - **JJ Bumrah** is the most lethal bowler at 1.92 wickets per match 
   despite not leading total wickets
-- **RCB has 116 wins** — 4th highest — yet ZERO IPL titles ever
+- **RCB has 116 wins** — 4th highest — yet ZERO IPL titles ever (wins in 2025)
 - Teams choosing to **field after winning toss win 53.86%** of matches 
   vs 45.38% when batting — chasing is statistically superior
 - IPL avg runs per match grew from **286 in 2009 to 366 in 2024** — 
